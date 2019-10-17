@@ -1,7 +1,7 @@
 # Spring Boot: How to run quartz in a cluster?
 
 1. Create schema `quartz_demo` in the database `postgres`.
-2. Create the tables as mentioned in [tables-postgres.sql](../src/main/resources/tables-postgres.sql)
+2. Create the tables as mentioned in [tables-postgres.sql](src/main/resources/tables-postgres.sql)
 
 Add the following application properties:
 
